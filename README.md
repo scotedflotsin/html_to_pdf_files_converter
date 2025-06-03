@@ -16,7 +16,7 @@
 
   <h2 style="color:#2c3e50;">📸 Screenshot</h2>
   <div style="text-align:center;margin:30px 0;">
-    <img src="https://drive.google.com/file/d/1b7OAsaHQDre5wqKVZHDdAnG8JdnXcZKH/view?usp=sharing" alt="App Screenshot" style="width:100%;border-radius:8px;" />
+    <img src="https://drive.google.com/file/d/1b7OAsaHQDre5wqKVZHDdAnG8JdnXcZKH/view" alt="App Screenshot" style="width:100%;border-radius:8px;" />
   </div>
 
   <h2 style="color:#2c3e50;">📦 Tech Stack</h2>
