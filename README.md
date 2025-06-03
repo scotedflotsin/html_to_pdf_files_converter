@@ -39,8 +39,8 @@
   <p>
     <strong>Harsh Verma</strong><br>
     Certified Android & MERN Developer<br>
-    🌐 <a href="https://harshnexus.com" target="_blank">harshnexus.com</a><br>
-    📧 <a href="mailto:your-email@example.com">your-email@example.com</a>
+    🌐 <a href="https://harshgo.com" target="_blank">harshnexus.com</a><br>
+    📧 <a href="mailto:your-email@example.com">scotedflotsin.co.ltd@gmail.com</a>
   </p>
 
   <h2 style="color:#2c3e50;">📃 License</h2>
